@@ -1,0 +1,127 @@
+div {
+    padding:0;
+    margin:0;
+    }
+a {
+    text-decoration: none;
+}
+body {
+    margin: 0px;
+    padding: 0px;
+}
+form {
+    padding: 0px;
+    margin: 0px;
+    -webkit-appearance: none;
+
+}
+    ul {
+        text-decoration: none;
+        padding-left: 15px;
+        color: black;
+        
+    }
+    li, p {
+        padding-right: 10px;
+        font-family: Arial;
+        color: black;
+
+    }
+    .p {
+        padding-left: 15px;
+    }
+    .navbar-top {
+        position: fixed;
+        right: 0px; 
+        
+    
+    }
+    .navbar-top ul {
+        list-style-type: none;
+        
+        
+    }
+    .navbar-top li {
+        display: inline; 
+        margin-right: 10px;       
+    }
+    .navbar-top li a {
+        text-decoration: none;
+        color: black;
+        font-family: Arial;
+
+    }
+    .middle-img {
+        position: fixed;
+        left: 42%;
+        top: 40%;
+    }
+    .search {
+        margin: 0px;
+        width: 100%;
+        padding-left: 515px;
+        position: fixed;
+        top: 53%;
+
+    }
+    .search-form {
+        margin-left:auto;
+        margin-right:auto;
+
+    }
+    .search-text {
+        height: 30px;
+        width: 500px;
+
+    }
+    .button-div {
+        margin:opx;
+        width: 100%;
+        padding-left: 650px;
+        position: fixed;
+        top: 60%;
+
+    }
+    .footer {
+        display: inline-block;
+        width: 100%;
+        margin:0px;
+        padding:0px;
+        position: fixed;
+        bottom: 0px;
+    }
+    .footer-top {
+        margin: 0px;
+        padding: 0px;
+        width: 100%;
+        height: 50px;
+        border: 1px solid lightgrey;
+        background-color: #ebebeb;
+    }
+   .footer-bottom {
+       float: left;
+       margin:0px;
+       padding: 0px;
+       width:100%;
+       height: 50px;
+        background-color: #ebebeb;
+   }
+   .footer-bottom ul li {
+       list-style-type: none;
+       display: inline;
+   }
+   .right {
+    position:fixed;
+    right: 0px;
+    list-style-type: none;
+
+   }
+   .right li {
+       display:inline;
+   }
+   button {
+       padding: 10px;
+       font-family: Arial;
+       font-weight: bold;
+       border:0px;
+    }
